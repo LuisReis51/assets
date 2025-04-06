@@ -1,0 +1,22 @@
+{
+    "name": "XGT Token",
+    "website": "[https://excaliburglobal.farm](https://excaliburglobal.farm)",
+    "description": "XGT Token powers sustainable development initiatives across Cameroon, Liberia, USA, and Brazil",
+    "explorer": "[https://bscscan.com/token/0x654E38A4516F5476D723D770382A5EaF8Bae0e0D",](https://bscscan.com/token/0x654E38A4516F5476D723D770382A5EaF8Bae0e0D",)
+    "type": "BEP20",
+    "symbol": "XGT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x654E38A4516F5476D723D770382A5EaF8Bae0e0D",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "[https://twitter.com/XGTToken"](https://twitter.com/XGTToken")
+        }
+    ],
+    "tags": [
+        "defi",
+        "sustainable",
+        "farming"
+    ]
+}
